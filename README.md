@@ -10,5 +10,5 @@ Para la parte de los productos usamos mySQL o MariaDB, y para la parte de mensaj
 ### Para correr el proyecto
 
 ```
-npm server
+node server
 ```
